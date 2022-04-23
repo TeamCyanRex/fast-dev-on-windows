@@ -55,12 +55,12 @@ function ls-git{
 	echo "git-proxy-off (turn off global proxy)"
 	echo "git-conf-check (show git global config)"
 	echo "git-b (git branch)"
-	echo "git-b-dev (git branch <your alwa1 used git branch for dev>)"
+	echo "git-b-dev (git branch <your usually used git branch for dev>)"
 	echo "git-br (git branch -r)"
-	echo "git-cd-dev (git checkout <your alwa1 used git branch for dev>)"
+	echo "git-cd-dev (git checkout <your usually used git branch for dev>)"
 	echo "git-cd-main (git checkout main)"
-	echo "git-m-dev (git merge <your alwa1 used git branch for dev>)"
-	echo "git-del-dev (git branch -d <your alwa1 used git branch for dev>)"
+	echo "git-m-dev (git merge <your usually used git branch for dev>)"
+	echo "git-del-dev (git branch -d <your usually used git branch for dev>)"
 	echo "git-cm <text> (args:$text;git commit -m $text)"
 }
 
